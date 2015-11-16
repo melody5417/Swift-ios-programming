@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "492406F51BF9C9DB00C04F06"
-               BuildableName = "CustomizeTableViewCell.app"
-               BlueprintName = "CustomizeTableViewCell"
-               ReferencedContainer = "container:CustomizeTableViewCell.xcodeproj">
+               BlueprintIdentifier = "492406D71BF9BE0000C04F06"
+               BuildableName = "Simple Table.app"
+               BlueprintName = "Simple Table"
+               ReferencedContainer = "container:Simple Table.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "492406F51BF9C9DB00C04F06"
-            BuildableName = "CustomizeTableViewCell.app"
-            BlueprintName = "CustomizeTableViewCell"
-            ReferencedContainer = "container:CustomizeTableViewCell.xcodeproj">
+            BlueprintIdentifier = "492406D71BF9BE0000C04F06"
+            BuildableName = "Simple Table.app"
+            BlueprintName = "Simple Table"
+            ReferencedContainer = "container:Simple Table.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "492406F51BF9C9DB00C04F06"
-            BuildableName = "CustomizeTableViewCell.app"
-            BlueprintName = "CustomizeTableViewCell"
-            ReferencedContainer = "container:CustomizeTableViewCell.xcodeproj">
+            BlueprintIdentifier = "492406D71BF9BE0000C04F06"
+            BuildableName = "Simple Table.app"
+            BlueprintName = "Simple Table"
+            ReferencedContainer = "container:Simple Table.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "492406F51BF9C9DB00C04F06"
-            BuildableName = "CustomizeTableViewCell.app"
-            BlueprintName = "CustomizeTableViewCell"
-            ReferencedContainer = "container:CustomizeTableViewCell.xcodeproj">
+            BlueprintIdentifier = "492406D71BF9BE0000C04F06"
+            BuildableName = "Simple Table.app"
+            BlueprintName = "Simple Table"
+            ReferencedContainer = "container:Simple Table.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

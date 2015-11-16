@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CustomizeTableViewCell.xcscheme</key>
+		<key>Simple Table.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>492406F51BF9C9DB00C04F06</key>
+		<key>492406D71BF9BE0000C04F06</key>
 		<dict>
 			<key>primary</key>
 			<true/>

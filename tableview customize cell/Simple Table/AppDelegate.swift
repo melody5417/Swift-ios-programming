@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CustomizeTableViewCell
+//  Simple Table
 //
 //  Created by Yiqi Wang on 15/11/16.
 //  Copyright © 2015年 Yiqi Wang. All rights reserved.
