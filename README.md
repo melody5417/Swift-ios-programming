@@ -1,6 +1,4 @@
 # Swift-ios-programming
-http://www.appcoda.com/ios-programming-course/ step by step
-
 
 参考这个list开始学习swift iOS 开发 
 http://www.appcoda.com/ios-programming-course/
