@@ -12,6 +12,7 @@
 		492406E11BF9BE0000C04F06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 492406DF1BF9BE0000C04F06 /* Main.storyboard */; };
 		492406E31BF9BE0000C04F06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 492406E21BF9BE0000C04F06 /* Assets.xcassets */; };
 		492406E61BF9BE0000C04F06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 492406E41BF9BE0000C04F06 /* LaunchScreen.storyboard */; };
+		492407131BFABE9100C04F06 /* tableDataPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 492407121BFABE9100C04F06 /* tableDataPlist.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		492406E21BF9BE0000C04F06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		492406E51BF9BE0000C04F06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		492406E71BF9BE0000C04F06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		492407121BFABE9100C04F06 /* tableDataPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = tableDataPlist.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				492406DB1BF9BE0000C04F06 /* AppDelegate.swift */,
 				492406DD1BF9BE0000C04F06 /* ViewController.swift */,
+				492407121BFABE9100C04F06 /* tableDataPlist.plist */,
 				492406DF1BF9BE0000C04F06 /* Main.storyboard */,
 				492406E21BF9BE0000C04F06 /* Assets.xcassets */,
 				492406E41BF9BE0000C04F06 /* LaunchScreen.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				492407131BFABE9100C04F06 /* tableDataPlist.plist in Resources */,
 				492406E61BF9BE0000C04F06 /* LaunchScreen.storyboard in Resources */,
 				492406E31BF9BE0000C04F06 /* Assets.xcassets in Resources */,
 				492406E11BF9BE0000C04F06 /* Main.storyboard in Resources */,
@@ -286,6 +290,7 @@
 				492406EC1BF9BE0000C04F06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
